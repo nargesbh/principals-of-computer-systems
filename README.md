@@ -1,5 +1,5 @@
 # Scheduling Algorithms Project 
-
+![logo](scheduling.png)
 ## Introduction
 
 Welcome to my Principles of Computer Systems project on scheduling algorithms. In this project, I explore and compare two key scheduling algorithms: Shortest Job First (SRTF) and Round Robin (RR).
